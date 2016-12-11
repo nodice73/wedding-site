@@ -59,9 +59,12 @@ div.menu ul {
 
 div.menu li {
     display: inline-block;
+    margin: 0;
+    padding: 0;
 }
 
 div.menu li a {
+    margin: 0;
     text-align: center;
     font-size: 20px;
     padding: 10px 12px;
@@ -81,8 +84,6 @@ div.menu a:hover {
 }
 
 .slideshow-container {
-    padding-top: 20px;
-    padding-bottom: 20px;
     display: inline-block;
     max-width: 450px;
 }
