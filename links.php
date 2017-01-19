@@ -5,6 +5,8 @@
             content="width=device-width, initial-scale=1">
          <link rel="stylesheet" href="style.css">
          <body>
+             <?php include("menu.html") ?>
+
              <div class="title">
                  <h1>Cool Links!</h1>
              </div>
