@@ -10,28 +10,19 @@ main {
     text-align:center;
 }
 
-h1, h2, a {
+h1, h2, p, td {
     color: #ffffff;
 }
+
 
 ul {
     font-size: 30px;
     color: #ffffff;
 }
 
-.title {
-    padding-bottom: 20px;
-    text-align: center;
-}
-
-.sf {
-    color: #ffffff;
-    font-size: 36px;
-    font-weight: bold;
-}
-
-a:link {
+a, a:link {
     text-decoration: none;
+    color: #ffccff;
 }
 
 a:hover {
@@ -42,6 +33,44 @@ img {
     width: 100%;
     height: auto;
     width: auto\9;
+}
+
+
+.title {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+div#location, div#transportation, div#lodging {
+   /* border: 2px solid white;*/
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+
+div#transportation ul {
+}
+
+.sf {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+table#hotel {
+    border: 1px solid white;
+    margin: auto;
+    border-spacing: 10px 15px;
+}
+
+.info a:link {
+    text-decoration: underline;
+}
+
+tr.header {
+    font-size: 22px;
+    font-weight: bold;
 }
 
 div.menu {
