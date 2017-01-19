@@ -8,6 +8,7 @@
  
      <body>
          <main class="info">
+            <?php include("menu.html"); ?>
              <div class="title" id="location">
                  <h1>Wedding Location</h1>
                  <div class="map">

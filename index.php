@@ -15,15 +15,7 @@
         </div>
 
         <div class="clearfix">
-            <div class="menu">
-                <ul>
-                    <li>
-                    <a href="info.html">Info</a></li><li>
-                    <a href="rsvp.html">RSVP</a></li><li>
-                    <a href="https://www.myregistry.com/public/macloviaandadam">Registry</a></li><li>
-                    <a href="links.html">Cool links!</a></li>
-                </ul>
-            </div>
+            <?php include("menu.html"); ?>
 
             <div class="slideshow-container">
                 <div class="mySlides fade">
