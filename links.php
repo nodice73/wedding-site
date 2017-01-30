@@ -18,7 +18,7 @@
                  <li><a href="http://www.beltanefarm.com">Beltane Farm</a> - the best cheese and GOATS!</li>
              </ul>
 
-             <a href="index.html">Back</a>
+             <a href="index.php">Back</a>
          </body>
      </head>
 </html>
