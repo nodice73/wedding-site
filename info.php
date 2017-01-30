@@ -48,7 +48,7 @@
                          <td style="width:300px">Must mention "Quintana-Waite Wedding Room Block" or "Reservation #900523"</td>
                      </tr>
                      <tr>
-                         <td><a href="http://www3.hilton.com/en/hotels/new-mexico/hilton-santa-fe-historic-plaza-SFEHIHF/index.html">Hilton Santa Fe</td>
+                         <td><a href="http://www3.hilton.com/en/hotels/new-mexico/hilton-santa-fe-historic-plaza-SFEHIHF/index.php">Hilton Santa Fe</td>
                          <td>$189</td>
                          <td></td>
                      </tr>
