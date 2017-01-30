@@ -49,8 +49,14 @@ div#location, div#transportation, div#lodging {
     margin-bottom: 100px;
 }
 
+div#location {
+    /* border: 1px solid white; */
+    margin-top: 50px;
+}
+
 div#transportation ul {
 }
+
 
 .sf {
     color: #ffffff;
@@ -74,6 +80,8 @@ tr.header {
 }
 
 div.menu {
+    text-align: center;
+    /* border: 1px solid white; */
     margin: auto;
     background-color:#1f151c;
     z-index: 10;

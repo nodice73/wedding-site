@@ -9,14 +9,8 @@
  
     <body>
         <main>
-        <div class="title">
-            <h1>October 7th, 2017</h1>
-            <a class="sf" href="cloud.html">Santa Fe, New Mexico</a>
-        </div>
-
+        <?php include("menu.html"); ?>
         <div class="clearfix">
-            <?php include("menu.html"); ?>
-
             <div class="slideshow-container">
                 <div class="mySlides fade">
                     <img src="julia.jpg">
