@@ -16,6 +16,8 @@
                  <li><a href="https://www.eefc.org">Eastern European Folklife Center</a> - balkan camp!</li>
                  <li><a href="https://yaleslavicchorus.com">Yale Slavic Chorus</a> - the best slavic chorus!</li>
                  <li><a href="http://www.beltanefarm.com">Beltane Farm</a> - the best cheese and GOATS!</li>
+                 <li><a href="www.santafenewmexican.com">Santa Fe New Mexican</a> - local news!</li>
+                 <li><a href="https://en.wikipedia.org">Wikipedia</a> - great source of information!</li>
              </ul>
 
              <a href="index.php">Back</a>
