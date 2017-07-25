@@ -9,6 +9,17 @@
      <body>
          <main class="info">
             <?php include("menu.html"); ?>
+
+             <div id="timeline">
+                <h1>Wedding day timeline</h1>
+                    <p>4:00 ~ Buses depart from downtown Santa Fe</p>
+                    <p>5:00 ~ Ceremony</p>
+                    <p>5:30 ~ Cocktail hour</p>
+                    <p>6:30 ~ Dinner</p>
+                    <p>7:30 ~ Dancing and festivities</p>
+                    <p>Buses will return guests to Santa Fe</p>
+             </div>
+
              <div class="title" id="location">
                  <h1>Wedding Location</h1>
                  <div class="map">
@@ -25,6 +36,9 @@
                  <p><a href="www.roadrunnershuttleandcharter.com">
                          Roadrunner Shuttle</a></p>
                  <p>American Airlines and United Airlines fly into Santa Fe</p>
+                 <br />
+
+                 <p>Buses will take guests to and from the wedding</p>
              </div>
 
              <div id="lodging">
