@@ -10,14 +10,41 @@
          <main class="info">
             <?php include("menu.html"); ?>
 
+            <div id="optional">
+                <h1>Optional events</h1>
+                <p>Here's what we'll be up to before and after the 
+                wedding. Join us if you can!</p>
+                <ul>
+                    <li>Friday, 8 pm - Cocktails at 
+                        <a href="http://santafespirits.com">
+                            Santa Fe Spirits</a>
+                    </li>
+                    <li>Sunday, 10 am - Brunch at 
+                        <a href="http://sweetwatersf.com">
+                            Sweetwater Harvest Kitchen</a>
+                    </li>
+            </div>
+
+
              <div id="timeline">
                 <h1>Wedding day timeline</h1>
-                    <p>4:00 ~ Buses depart from downtown Santa Fe</p>
+                <p>4:00 ~ Buses depart from the 
+                    <a href="http://www3.hilton.com/en/hotels/new-mexico/hilton-santa-fe-historic-plaza-SFEHIHF/index.html">
+                        Hilton in downtown Santa Fe</a> (100 Sandoval St.)
+                </p>
                     <p>5:00 ~ Ceremony</p>
                     <p>5:30 ~ Cocktail hour</p>
                     <p>6:30 ~ Dinner</p>
                     <p>7:30 ~ Dancing and festivities</p>
-                    <p>Buses will return guests to Santa Fe</p>
+                    <p></p>
+                    <div style="text-align:left">
+                        <ul>
+                            <li>Buses will return guests to Santa Fe</li>
+                            <li>Cocktail attire</li>
+                            <li>Bring something warm to wear,
+                                as it might get chilly in the evening</li>
+                        </ul>
+                    </div>
              </div>
 
              <div class="title" id="location">

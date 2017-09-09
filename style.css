@@ -14,12 +14,21 @@ p {
     font-size: large;
 }
 
-h1, h2, p, td {
+h1, h2, p, td, li {
     color: #ffffff;
 }
 
-div#timeline, div#location, div#transportation {
+div#timeline, div#location, div#transportation, div#lodging {
+    border: 3px solid white;
     margin-bottom: 50px;
+}
+
+div#optional {
+    border: 3px solid white;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
 }
 
 div#timeline {
@@ -32,7 +41,6 @@ div#timeline {
 
 
 ul {
-    font-size: 30px;
     color: #ffffff;
 }
 
@@ -88,6 +96,7 @@ div.menu {
 }
 
 div.menu ul {
+    font-size: 30px;
     list-style-type: none;
     margin: 0;
     padding: 0;
