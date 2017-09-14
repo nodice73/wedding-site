@@ -36,11 +36,13 @@
                     <p>5:30 ~ Cocktail hour</p>
                     <p>6:30 ~ Dinner</p>
                     <p>7:30 ~ Dancing and festivities</p>
+                    <p>10:30 ~ Buses return guests to Santa Fe</p>
                     <p></p>
                     <div style="text-align:left">
                         <ul>
-                            <li>Buses will return guests to Santa Fe</li>
                             <li>Cocktail attire</li>
+                            <li>The venue grounds are grass and gravel,
+                                so don't wear pointy heels!</li>
                             <li>Bring something warm to wear,
                                 as it might get chilly in the evening</li>
                         </ul>
